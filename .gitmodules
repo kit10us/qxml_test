@@ -1,0 +1,6 @@
+[submodule "qxml"]
+	path = qxml
+	url = https://github.com/kit10us/qxml
+[submodule "unify"]
+	path = unify
+	url = https://github.com/kit10us/unify.git
